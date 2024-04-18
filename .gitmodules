@@ -1,0 +1,6 @@
+[submodule "elk-audio-kas-configs"]
+	path = elk-audio-kas-configs
+	url = https://github.com/elk-audio/elk-audio-kas-configs
+[submodule "elk-audio-os-builder"]
+	path = elk-audio-os-builder
+	url = https://github.com/elk-audio/elk-audio-os-builder
